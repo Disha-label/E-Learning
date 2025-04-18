@@ -1,22 +1,22 @@
 E-LEARNING WEBSITE
 
 
-
 INTRODUCTION
 
 E-learning website is a free and user-friendly platform designed to help students and learners improve their skills in programming, web development,and data science.It offers a variety of courses all available at no cost.The site includes essential sections like Home,Contact,Services,About Us,Login,Logout,Feedback and Courses.Users must register and log in to access courses and submit feedback ensuring secure and personalized content. Website is developed using HTML,CSS,JavaScript,and PHP.Website provides an engaging experience with XAMPP serving as the local server for testing and managing data.Admins have full control over user accounts,course content,and platform maintenance.
 
-Hardware Requirements
+Hardware Requirements:
 
 E-learning website requires a system with basic but efficient hardware specifications.An Intel Core i5 processor is used to ensure smooth performance during development tasks.A minimum of 512 GB of hard disk storage is recommended to store project files, tools and databases comfortably.The system should have a standard output display for clear viewing of the interface and testing the website layout.A standard QWERTY keyboard is used for coding and interacting with the development environment, while a standard two-button mouse provides easy navigation and control throughout the development process.
 
-Software Requirements
+Software Requirements:
 
 E-learning website involves the use of several essential software tools. XAMPP is used as the local web server to run and test the website during development. MySQL serves as the database system for storing user information, course details, feedback and other related data. PHP is used as the backend scripting language to handle the website's logic, manage database interactions and ensure smooth server-side operations. For frontend development HTML is used to structure the web pages while CSS is applied to design and style the user interface, creating an attractive and responsive layout for users.
 
 DATABASE DESIGN
 
 Database for this e-learning platform is designed to manage users,courses,enrollments, feedback and user sessions effectively.The Users table stores user details such as name,email, password and the timestamp of account creation.The Courses table contains information about each course including the course name,description,video URL and image URL.The Enrollments table connects users and courses which user has enrolled in which course along with the created_at attribute of enrollment.The Feedback table allows users to provide feedback on their learning experience,storing the user ID, feedback content, timestamp, and a rating.To track login activity, the User_sessions table records each users login time and date.Each table uses an Id column as the primary key and foreign keys like user_id and course_id are used to maintain relationships between users and courses.
+
 
 Objectives
 
