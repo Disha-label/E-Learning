@@ -1,6 +1,3 @@
-E-LEARNING WEBSITE
-
-
 INTRODUCTION
 
 E-learning website is a free and user-friendly platform designed to help students and learners improve their skills in programming, web development,and data science.It offers a variety of courses all available at no cost.The site includes essential sections like Home,Contact,Services,About Us,Login,Logout,Feedback and Courses.Users must register and log in to access courses and submit feedback ensuring secure and personalized content. Website is developed using HTML,CSS,JavaScript,and PHP.Website provides an engaging experience with XAMPP serving as the local server for testing and managing data.Admins have full control over user accounts,course content,and platform maintenance.
